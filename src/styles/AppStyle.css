@@ -1,0 +1,52 @@
+.title {
+    font-weight: bold;
+    font-size: 50px;
+    transition: 0.25s;
+}
+.title:hover {
+    cursor: pointer;
+    font-size: 55px;
+}
+.todos {
+    background: #1de9b6;
+    padding: 10px;
+}
+.todos-list {
+    font-size: 18px;
+    opacity: 1;
+    font-weight: bold;
+    color: #387CA3;
+    transition: 0.25s;
+}
+.todos-list:hover {
+    font-size: 19px;
+    cursor: pointer;
+    opacity: 0.5;
+    text-decoration-line: line-through;
+    text-decoration-color: red;
+}
+.nolist {
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+}
+.icon {
+    align-self: center;
+    height: 200px;
+    transition: 0.25s;
+}
+.icon:hover {
+    cursor: pointer;
+    height: 210px;
+}
+.form {
+    margin-top: 20px;
+}
+.label-todo {
+    color: white;
+    font-weight: bold;
+    font-size: large;
+}
+.input {
+    color:white;
+}
