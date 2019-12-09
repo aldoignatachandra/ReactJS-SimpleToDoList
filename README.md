@@ -30,12 +30,12 @@ Simple - ToDo List is an application base on website for make list of ToDo with 
 ## Screenshot from the App
 <p align='center'>
   <span>
-      <image width="445" src="src/images/Screenshot_1.png" />
-      <image width="445" src="src/images/Screenshot_2.png" />
+      <image width="435" src="src/images/Screenshot_1.png" />
+      <image width="435" src="src/images/Screenshot_2.png" />
   </span>
   <span>
-      <image width="445" src="src/images/Screenshot_3.png" />
-      <image width="445" src="src/images/Screenshot_4.png" />
+      <image width="435" src="src/images/Screenshot_3.png" />
+      <image width="435" src="src/images/Screenshot_4.png" />
   </span>
 </p>
 
