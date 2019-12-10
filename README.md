@@ -40,5 +40,4 @@ Simple - ToDo List is an application base on website for make list of ToDo with 
 </p>
 
 ## License
-----
 [ISC](https://en.wikipedia.org/wiki/ISC_license "ISC")
